@@ -1,5 +1,6 @@
 ## Обо мне
-- JavaScript, TypeScript, Dart, Python и C#
-- В процессе: C++, Lua, Fortran
-- Пишу Discord ботов
+- 17 лет
+- JavaScript, TypeScript, Dart, Python
+- В процессе: C++, C#, Lua
+- Пишу Discord и TG ботов
 - Участник МК
